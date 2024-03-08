@@ -71,20 +71,20 @@ const SideBar = () => {
         </li>
          <li>
           <a
-            href='https://cosmofeed.com/vp/65716b6dfae0ff0910e96dbd'
+            href='https://github.com/brainer97/Api-key-/blob/main/Apikey.html'
             rel='noreferrer'
             target='_blank'>
             <MdOutlineCoffee size={15} />
-            <p className={`${!open && 'hidden'}`}>Project affiliate Partner</p>
+            <p className={`${!open && 'hidden'}`}>copy and peast API KEY Here</p>
           </a>
         </li>
         <li>
           <a
             rel='noreferrer'
             target='_blank'
-            href='https://github.com'>
+            href='https://github.com/brainer97/Api-key-/blob/main/Apikey.html'>
             <AiOutlineGithub size={15} />
-            <p className={`${!open && 'hidden'}`}>Github</p>
+            <p className={`${!open && 'hidden'}`}> Api key-here</p>
           </a>
         </li>
         <li>
