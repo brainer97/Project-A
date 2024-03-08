@@ -90,7 +90,7 @@ const SideBar = () => {
         <li>
           <a onClick={() => setModalOpen(true)}>
             <MdOutlineVpnKey size={15} />
-            <p className={`${!open && 'hidden'}`}>Ai Key</p>
+            <p className={`${!open && 'hidden'}`}>Api Key</p>
           </a>
         </li>
       </ul>
